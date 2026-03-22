@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Velonica",
+  "base_artist": "Aqua Timez",
+  "createdAt": "2026-03-22T13:08:40.995736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Velonica",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/01_Velonica_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Velonica",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/02_Velonica_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Velonica",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/03_Velonica_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Velonica",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/04_Velonica_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aqua Timez - Velonica",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/05_Aqua_Timez_-_Velonica_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Velonica",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/06_Velonica_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Velonica (Bleach Opening 9)",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/07_Velonica_(Bleach_Opening_9)_PelleK.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Velonica",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/pl_01_Velonica_Aqua_Timez.txt"
+    }
+  ]
+}
